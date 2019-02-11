@@ -1,0 +1,50 @@
+
+
+
+
+body{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.jumbotron{
+
+    height: 50px;
+}
+
+
+
+.bypass-card{
+    width:350px;
+    height:500px;
+     background:#721071;
+     margin: 0 auto;
+     align-content: center;
+	
+  box-shadow: 4px 5px 6px -1px #777;
+}
+.bypass-card img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.input{
+width:150px;
+height:350px;
+position:absolute;
+
+}
+.output{
+width:150px;
+height:350px;
+margin-left:170px;
+position:absolute;
+}
+.dataCard{
+
+position:relative;
+margin-left:15px;
+
+}
